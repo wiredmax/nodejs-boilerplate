@@ -1,0 +1,9 @@
+{
+  // List of namespaces that are available to the backend.
+  "namespaces": [
+    "404",
+    "500",
+    "general",
+    "routes",
+  ]
+}

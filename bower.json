@@ -1,0 +1,19 @@
+{
+  "name": "empty-website",
+  "version": "0.0.1",
+  "authors": [
+    "Maxime Poulin <mpoulin@roux.ca>",
+    "Mathieu M-Gosselin <mathieumg@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
